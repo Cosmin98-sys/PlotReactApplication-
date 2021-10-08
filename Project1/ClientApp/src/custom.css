@@ -1,0 +1,40 @@
+/* Provide sufficient contrast against white background */
+
+.mainBodyDiv {
+    height: 79.99%;
+    position: relative;
+}
+
+.topNavbar {
+    width: 100%;
+    height: 10%;
+    background-color:deepskyblue
+}
+
+.footer{
+    width:100%;
+    height:10%;
+    background-color:black
+}
+
+.mainDiv {
+    width: 100vw;
+    height: 100vh;
+}
+
+code {
+    color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+#root {
+    width:fit-content;
+    height:fit-content;
+    
+}
+
